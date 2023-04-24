@@ -12,7 +12,7 @@ body{
 a{
     text-decoration: none !important;
 }
-#userFullNameError, #userQualificationError, #userLocationError, #userEmailError, #userPasswordError, #userSIEmailError, #userSIPasswordError, #userBioError, #editProfileForm{
+#userFullNameError, #userSurnameError, #userQualificationError, #userLocationError, #userEmailError, #userPasswordError, #userSIEmailError, #userSIPasswordError, #userBioError, #editProfileForm{
     display: none;
 }
 
